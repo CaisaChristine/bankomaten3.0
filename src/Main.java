@@ -9,8 +9,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int balance = 1000;
         int choice = -1;
-        int age = 0;
-        int aged = 8;
 
         List<Integer> history = new ArrayList<>();
 
